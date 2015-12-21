@@ -50,7 +50,7 @@ h5 {
 	font-family: Arial;
 	font-style: italic;
 	}
-div div {
+.Main {
 	margin-top: 5%;
 	margin-left: 33%;
 	margin-right: 33%;
@@ -76,6 +76,8 @@ td {
 	border-top: 1pt dashed black;
 	}
 div .CMU a img {
+	margin-left: auto;
+	margin-right: auto;
 	text-align: center;
 	height: 30pt;
 	width: 300pt;
@@ -83,4 +85,17 @@ div .CMU a img {
 div .CMU {
 	text-align: center;
 	}
-	
+div .SU a img {
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+	height: 40pt;
+	width: 300pt;
+	}
+div .MIT a img {
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+	height: 40pt;
+	width: 60pt;
+	}
