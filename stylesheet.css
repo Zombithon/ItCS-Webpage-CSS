@@ -1,0 +1,86 @@
+table, tr {
+	border: 1pt solid black;
+	text-align: center;
+	}
+table {
+	width: 30%;
+	height: 70pt;
+	}
+h1, h2, h3, ol, ul {
+	text-align: center;
+	font-family: Arial;
+	color: Black;
+	}
+h2 {
+	font-style: italic;
+	}
+h3 {
+	text-align: center;
+	font-size: 20pt;
+	}
+div table {
+	border: 1pt dashed black;
+	width: 100%;
+	height: 50pt;
+	}
+div table tr th {
+	border: 1pt dashed black;
+	width: 33%;
+	font-size: 35pt;
+	font-family: Arial;
+	}
+a {
+	text-decoration: none;
+	}
+h3 { 
+	text-align: center;
+	font-weight: bold;
+	height: 30pt;
+	font-size: 18pt;
+	font-family: Arial;
+	}
+h4 {
+	text-align: center;
+	font-size: 15pt;
+	font-family: Arial;
+	}
+h5 {
+	text-align: center;
+	font-size: 11pt;
+	font-family: Arial;
+	font-style: italic;
+	}
+div div {
+	margin-top: 5%;
+	margin-left: 33%;
+	margin-right: 33%;
+	text-align: center;
+	}
+ol , ul {
+	font-family: Arial;
+	font-size: 13pt
+	}
+div div table {
+	text-align: center;
+	margin-top: 5%;
+	width: 100%;
+	}
+div div table tr td {
+	width: 48%;
+	}
+a img {
+	height:30pt;
+	width: 30pt;
+	}
+td {
+	border-top: 1pt dashed black;
+	}
+div .CMU a img {
+	text-align: center;
+	height: 30pt;
+	width: 300pt;
+	}
+div .CMU {
+	text-align: center;
+	}
+	
